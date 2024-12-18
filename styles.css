@@ -9,24 +9,20 @@ html {
     margin: 10px 50px 20px; 
     background-color: rgba(40, 62, 102, 0.7); 
     padding: 20px; 
-    border-radius: 50px;
-    box-sizing: content-box;}
+    border-radius: 50px;}
 
 #tuna-picture {
     width: auto; 
     height: 200px;
-    border-left-width: 2px;
-    box-sizing: content-box;}
+    border-left-width: 2px;}
 
 #teriyaki-picture 
     {width: auto;
-     height: 150px;
-     box-sizing: content-box;}
+     height: 150px;}
 
 #salmon-picture 
 {width: auto; 
-    height: 150px;
-    box-sizing: content-box;}
+    height: 150px;}
 
 .tunadish, .chickendish, .salmondish {
     background-color: rgba(40, 62, 102, 0.7);
