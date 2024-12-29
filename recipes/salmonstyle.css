@@ -1,0 +1,10 @@
+#webpage { background-color:  rgba(143, 217, 251, 0.7);
+    font-family: Verdana, Tahoma, sans-serif;}
+#header {text-align: center;}
+.box {text-align: justify;
+    width: 80%;
+    background-color: antiquewhite;
+    margin: auto;
+    padding: 30px;
+    border-radius: 5%;
+    outline: 1px solid grey;}
