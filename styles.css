@@ -15,7 +15,7 @@ html {
 
 #tuna-picture {
     width: auto; 
-    height: 200px;
+    height: 150px;
     border-left-width: 2px;}
 
 #teriyaki-picture 
@@ -33,7 +33,11 @@ html {
     border-radius: 50px;
     padding-top: 1%;
     padding-bottom: 1%;
-    padding-left: 1%;
+    padding-left: 3%;
     padding-right: 1%;
     display: block;
-    outline: 1px solid grey;}
+    outline: 1px solid grey;
+    display: flex;
+    }
+
+#box1, #box2, #box3 {margin-left: 20px;}
