@@ -1,17 +1,30 @@
-#webpage { background-color:  rgba(143, 217, 251, 0.7);
+#webpage {
     font-family: Verdana, Tahoma, sans-serif;}
-#header {font-size: 40px;
-    text-align: center;
-   margin: 10px 50px 20px; 
-   background-color: antiquewhite; 
-   padding: 20px; 
-   border-radius: 50px;
-   outline: 1px solid grey;
-   color: black;}
-.box {   text-align: justify;
-    width: 89%;
-    background-color: antiquewhite;
-    padding: 30px;
-    border-radius: 5%;
-    margin: 10px 50px 20px;
-    outline: 1px solid grey;}
+    body {
+        margin: 0;
+    }
+    header {
+        font-size: 40px;
+         text-align: center; 
+        background-color: #BECEAA; 
+        padding: 20px; 
+        color: black;
+        font-weight: 600;}
+    
+        #linklogo {
+            text-decoration: none;
+            color: white;
+        }
+        
+        #logo {
+            width: 55px;
+            height: auto;
+        }
+        .box {
+            text-align: justify;
+            width: 89%;
+            background-color: antiquewhite;
+            padding: 30px;
+            border-radius: 5%;
+            margin: 40px 50px 40px;
+            outline: 1px solid grey;}
